@@ -23,22 +23,22 @@ Issue tracker for the Amiga game “Settle the World”, which is currently unde
 
 ##  Issue Status
 
-| Status  | Description                              |
-|---------|------------------------------------------|
-| Watch   | Currently unable to reproduce the issue. |
-| wontfix | This will not be worked on.              |
-| Invalid | This doesn't seem right.                 |
+| Status         | Description                                     |
+|----------------|------------------------------------------|
+| Watch          | Currently unable to reproduce the issue. |
+| Won't be fixed | This will not be worked on.              |
+| Invalid        | This doesn't seem right.                 |
 
 ##  Issue Components
 
-|   Component   |                           Description                           |
-|---------------|-----------------------------------------------------------------|
-| Text          | Issue found with text in game.  i.e. spelling, needs re-wording |
-| GUI           | Issue found with GUI.  i.e. Buttons, controls, pop-ups.         |
-| Gameplay      | Gameplay related issues.                                        |
-| Audio         | Audio specific issues.                                          |
-| Music         | Music related issues.                                           |
-| Accessibility | Issues that could be viewed to improve accessibility.           |
+|   Component    |                           Description                           |
+|----------------|-----------------------------------------------------------------|
+| Text           | Issue found with text in game.  i.e. spelling, needs re-wording |
+| GUI            | Issue found with GUI.  i.e. Buttons, controls, pop-ups.         |
+| Gameplay       | Gameplay related issues.                                        |
+| Audio          | Audio specific issues.                                          |
+| Music          | Music related issues.                                           |
+| Accessibility  | Issues that could be viewed to improve accessibility.           |
 
 
 Structure adopted from: brian-hmn 
