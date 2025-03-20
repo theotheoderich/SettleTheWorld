@@ -1,7 +1,10 @@
 ![grafik](https://github.com/user-attachments/assets/045b7a98-cbbe-45de-9d54-6ce274595c7a)
 
 # SettleTheWorld
-Issue tracker for the Amiga game “Settle the World”, which is currently under development
+Issue tracker for the Amiga game “Settle the World”, which is currently under development.
+
+Settle the World is a turn-based building and trading game with a focus on local multiplayer (up to four players on one Amiga computer).
+You will have to found settlements, build roads, establish trade relations with your fellow player, explore the map and sometimes send soldiers to war.
 
 
 ##  Issue Types
