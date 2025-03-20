@@ -4,6 +4,7 @@
 Issue tracker for the Amiga game “Settle the World”, which is currently under development.
 
 Settle the World is a turn-based building and trading game with a focus on local multiplayer (up to four players on one Amiga computer).
+
 You will have to found settlements, build roads, establish trade relations with your fellow player, explore the map and sometimes send soldiers to war.
 
 
