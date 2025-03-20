@@ -1,3 +1,6 @@
+![7tlNMF](https://github.com/user-attachments/assets/b4f2129c-e26e-4d04-8125-0f1e4dc03763)
+
+
 # SettleTheWorld
 Issue tracker for the Amiga game “Settle the World”, which is currently under development
 
